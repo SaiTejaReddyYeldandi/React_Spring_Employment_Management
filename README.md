@@ -10,7 +10,7 @@ A full-stack Employment Management System built using:
 
 \- \*\*Backend:\*\* Spring Boot (REST API)
 
-\- \*\*Database:\*\* MySQL (planned)
+\- \*\*Database:\*\* MySQL 
 
 
 
